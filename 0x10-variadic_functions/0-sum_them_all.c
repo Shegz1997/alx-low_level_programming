@@ -1,5 +1,3 @@
-lines (19 sloc)  377 Bytes
-
 #include <stdarg.h>
 #include "variadic_functions.h"
 
